@@ -1,0 +1,13 @@
+@media all and (min-width: 772px){
+    .container-text button:hover{color:white;background-color: #010780;border-color: #00000000;}
+    .container-text button{font-family: "Roboto", Sans-serif;font-size: 14px;font-weight: 600;fill: #000000;color: #000000;background-color: #FFFFFF;border-style: solid;border-width: 2px 2px 2px 2px;border-color:#020101B0;border-radius: 24px 24px 24px 24px;padding: 1em 2em 1em 2em;} 
+}
+
+@media all and (max-width: 772px){
+    .container-text button:hover{color:white;background-color: #010780;border-color: #00000000;}
+    .container-text button{font-family: "Roboto", Sans-serif;font-size: 14px;font-weight: 600;fill: #000000;color: #000000;background-color: #FFFFFF;border-style: solid;border-width: 2px 2px 2px 2px;border-color:#020101B0;border-radius: 24px 24px 24px 24px;padding: 1em 2em 1em 2em;} 
+}
+    
+
+
+
